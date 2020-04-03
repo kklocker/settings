@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "split",
+    "shortcut": "",
+    "tag": [
+        "%SCRIPT",
+        "cursor.deleteChar()",
+        "editor.write(\"\\\\begin{split} \\n\\t\\n \\\\end{split}\")",
+        "cursor.movePosition(12,cursorEnums.Left)"
+    ],
+    "trigger": ",sp"
+}

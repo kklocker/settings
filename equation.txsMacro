@@ -1,0 +1,19 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "equation",
+    "shortcut": "",
+    "tag": [
+        "%SCRIPT",
+        "cursor.deleteChar()",
+        "editor.write(\"\\\\begin{equation} \\n\\t\\n \\\\end{equation}\")",
+        "cursor.movePosition(15,cursorEnums.Left)",
+        "",
+        ""
+    ],
+    "trigger": ",eq"
+}

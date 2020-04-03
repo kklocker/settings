@@ -1,0 +1,19 @@
+{
+    "abbrev": "fig",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "figure",
+    "shortcut": "",
+    "tag": [
+        "\\begin{figure}",
+        "\t\\centering",
+        "\t\\input{}",
+        "\t\\caption{}",
+        "\t\\label{}",
+        "\\end{figure}"
+    ],
+    "trigger": ",fg"
+}

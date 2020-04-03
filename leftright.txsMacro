@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "LEFT/RIGHT",
+    "shortcut": "",
+    "tag": [
+        "%SCRIPT",
+        "cursor.deleteChar()",
+        "editor.write(\"\\\\left\\(  \\\\right\\)\")",
+        "cursor.movePosition(8,cursorEnums.Left)"
+    ],
+    "trigger": ",lr"
+}

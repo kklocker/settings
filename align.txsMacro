@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "Align",
+    "shortcut": "",
+    "tag": [
+        "%SCRIPT",
+        "cursor.deleteChar()",
+        "editor.write(\"\\\\begin{align} \\n\\t\\n \\\\end{align}\")",
+        "cursor.movePosition(12,cursorEnums.Left)"
+    ],
+    "trigger": ",al"
+}
