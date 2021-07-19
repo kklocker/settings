@@ -1,0 +1,14 @@
+{
+    "abbrev": "exp",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "exponential",
+    "shortcut": "",
+    "tag": [
+        "\\e^{%<-%>}"
+    ],
+    "trigger": ",ek"
+}
