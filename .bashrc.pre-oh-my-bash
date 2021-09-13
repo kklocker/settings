@@ -1,0 +1,3 @@
+alias proj="cd c:/users/karll/projects"
+alias gs="git status"
+alias kvast="proj; cd kvast"
